@@ -28,6 +28,6 @@ You can click the Preview link to take a look at your changes.
 Python | Java | Azure | AWS | Data Engineer | Data Science | Machine Learning | NoSQL | SQL | Flask
 
 ---
-### Connect with me here : 
+### I'm here 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nil3sh17)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nilesh17//)  
 ---
